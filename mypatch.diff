@@ -1,0 +1,22 @@
+commit 04e204964c9515a6c9f802e3411fdbf0d8428674
+Author: abbashan03 <abbashankarasahin@gmail.com>
+Date:   Tue Jan 7 17:50:00 2020 +0100
+
+    Test
+
+diff --git a/main.py b/main.py
+index 355407e..d24100b 100644
+--- a/main.py
++++ b/main.py
+@@ -5,3 +5,4 @@
+ 2. If changes are there, read the new files.
+ 3. Merge the Diffs.
+ """
++s
+diff --git a/new.py b/new.py
+new file mode 100644
+index 0000000..7218afe
+--- /dev/null
++++ b/new.py
+@@ -0,0 +1 @@
++#!

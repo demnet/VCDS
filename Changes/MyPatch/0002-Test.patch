@@ -1,0 +1,30 @@
+From 04e204964c9515a6c9f802e3411fdbf0d8428674 Mon Sep 17 00:00:00 2001
+From: abbashan03 <abbashankarasahin@gmail.com>
+Date: Tue, 7 Jan 2020 17:50:00 +0100
+Subject: [PATCH 2/2] Test
+
+---
+ main.py | 1 +
+ new.py  | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 100644 new.py
+
+diff --git a/main.py b/main.py
+index 355407e..d24100b 100644
+--- a/main.py
++++ b/main.py
+@@ -5,3 +5,4 @@
+ 2. If changes are there, read the new files.
+ 3. Merge the Diffs.
+ """
++s
+diff --git a/new.py b/new.py
+new file mode 100644
+index 0000000..7218afe
+--- /dev/null
++++ b/new.py
+@@ -0,0 +1 @@
++#!
+-- 
+2.20.1
+

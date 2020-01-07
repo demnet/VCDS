@@ -1,8 +1,7 @@
 #! /bin/usr/python3
 
 """
-1. Check a folder for changes
-2. If changes are there, read the new files.
-3. Merge the Diffs.
+1. Check a folder for new sub folders
+2. Read files in new sub folders, that end on .patch
+3. Apply the .patch files in order of their numbering
 """
-s
